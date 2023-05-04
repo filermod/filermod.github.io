@@ -1,0 +1,36 @@
+Package: filerm-mod-p
+Architecture: iphoneos-arm
+Version: 1.3
+Section: Tweaks
+Maintainer: Filerm
+Installed-Size: 272
+Depends: mobilesubstrate
+Filename: ./debs/filerm-mod-p-1.3.deb
+Size: 97508
+MD5sum: 12bdcb2de70c3c1c6731c806c859f321
+SHA1: 1d8c51aa47b28cb384685f730cbac0a3ce27beb3
+SHA256: ad9fce178d0741e43ab93bbd2c9a7debd1d2e3d5a073ddbfc65c42e3bbc6ded5
+SHA512: 7d4ead09342e8f63097f0fee8ec6cc3dd29fa997e75778d772d8bfee2928a3c3485e9d2934d874de149af39259fe8cede1411ad2e30f0e960f8840c9892a04e5
+Homepage:
+Description: Filerm-mod-p-1.3 Mod Menu by Filerm!
+Name: Filerm-mod-p-1.3 Mod Menu
+Author: Filerm
+
+Package: filerm-mod-t-1.5
+Architecture: iphoneos-arm
+Version: 1.5
+Section: Tweaks
+Maintainer: Filerm
+Installed-Size: 388
+Depends: mobilesubstrate
+Filename: ./debs/filerm-mod-t-1.5.deb
+Size: 173292
+MD5sum: c3bc9ca1f6e59202fa922dd54b5b985c
+SHA1: 6665285127c5918719b0142907f7b43e168a3202
+SHA256: cc8ac3a6f3825bc9477867babf83c208664aaa5c3131976051a1f0b5331d6866
+SHA512: dc301c05f04d61435a4cbcade9815ea4c03101a0c8a22b64060314b4a50165406d98e04ec905bfe28a48ceecb1fb528358f6423a391ba572c26f260af86f1984
+Homepage:
+Description: Filerm-mod-t-1.5 Mod Menu by Filerm!
+Name: Filerm-mod-t-1.5 Mod Menu
+Author: Filerm
+
