@@ -6,11 +6,11 @@ Maintainer: Filerm
 Installed-Size: 272
 Depends: mobilesubstrate
 Filename: ./debs/filerm-mod-p_20.6.2.deb
-Size: 75328
-MD5sum: 961523fff45fe3fb397414227877ead1
-SHA1: fc01e554be7725a096f25c2cd4a5b8956e8674e1
-SHA256: 4ed128dd26855eb433f1e2e55b7b1b65454af2056a3a275c5c88cc26406f04ae
-SHA512: 3432c5f1ad8b0bfaa4e86a352117946e7972a5b7f84e8ba24ebed283a54e86b6f919246a66288475d77313646081ed60186a7a7f4baea0172ae06f1adbbd2777
+Size: 75470
+MD5sum: ebe56ca864abfe515cd8c99ca9f40387
+SHA1: ff6cfac6bbf9e6d0bca0add2f4454cc5e3f6ba9d
+SHA256: 6a0a673eff8ab6dc34a530b3f5f824801ed7516ab3fd59b7594da9950c2e3c7a
+SHA512: 984760722a59cc674294453a1b6014305ecd4ef1fc6c9eb3142af65d6efef798914c40fde0f0058395a3e3d785a5a3f9915b2b81f3fbfd48ee28edcb38715e82
 Homepage:
 Description: Filerm-mod-P Mod Menu by Filerm!
 Name: Filerm-mod-P Mod Menu
@@ -24,11 +24,11 @@ Maintainer: Filerm
 Installed-Size: 392
 Depends: mobilesubstrate
 Filename: ./debs/filermod-t_1.118.0.deb
-Size: 151104
-MD5sum: 0feeec1d253da2095b6ee6d6aab55d60
-SHA1: 32af0be2520dfe44f2cd2fb381e588c8d464f279
-SHA256: 9ef8df896ee6468604f6bea8200e1eb7808044899a990b0bb2be8d749e115fdb
-SHA512: 1c22374d62968dd0b731f5bd191db008d53313bc37c8a36cdc604baa9280ce83662eab311b0323c8f625455d814c26bbc0737cd705dc3c71c21d0624ece2d33a
+Size: 151266
+MD5sum: 9ac01e7542ba1fe4c4c127dfac27a286
+SHA1: 97e87291bf2c66c680ff06f5e3597e797b8b36f5
+SHA256: 5e0fe2f302071b2a7682c81cd197090c57cd6c45c21edcb335840f1bc8885757
+SHA512: ce6f462bfb1cdd145a96311e2d60a11135444adcffdbc91f4f575898b41bf991657b031c9676e5777b6d57c55e4a4ba023254b2364aa6a2f5eca06db3ae80445
 Homepage:
 Description: Filermod-T Mod Menu by Filerm!
 Name: Filermod-T Mod Menu
