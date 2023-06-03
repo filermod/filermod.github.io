@@ -18,6 +18,24 @@ Author: Filerm
 
 Package: filermod-t
 Architecture: iphoneos-arm
+Version: 1.118.0.0
+Section: Tweaks
+Maintainer: Filerm
+Installed-Size: 392
+Depends: mobilesubstrate
+Filename: ./debs/filermod-t_1.118.0.0.deb
+Size: 151288
+MD5sum: f8f3403d80d3cd7579d5a3ac92607f44
+SHA1: 623b36d43f38952ec4d046aa159a3927c1f548d4
+SHA256: 38c0aca48aaffc33c0abbea43c41488e67662270b01320dd63ba0b9b51a664d7
+SHA512: 71a972ae960f0608017f35e2a5afa01f86537daa8d8481a036422b702e15f56b0a8e9f35e503612d0a2c92892440ea3199676eae5539aa1263fcc1cc9512422a
+Homepage:
+Description: Filermod-T Mod Menu by Filerm!
+Name: Filermod-T Mod Menu
+Author: Filerm
+
+Package: filermod-t
+Architecture: iphoneos-arm
 Version: 1.118.0.1
 Section: Tweaks
 Maintainer: Filerm
