@@ -34,6 +34,24 @@ Description: Filermod-P Mod Menu by Filerm!
 Name: Filermod-P Mod Menu
 Author: Filerm
 
+Package: filermod-p
+Architecture: iphoneos-arm
+Version: 20.8.3.1
+Section: Tweaks
+Maintainer: Filerm
+Installed-Size: 296
+Depends: mobilesubstrate
+Filename: ./debs/filermod-p_20.8.3.1.deb
+Size: 78074
+MD5sum: 1d1cea1491c6306bb6ee5c46b7ad99df
+SHA1: 6c86263709dc4b2f7de8d50dfba7588acf48764e
+SHA256: ac2d283d3dffa822149e89bf883831956efd4b5d5140a66bbbc576ed011220cb
+SHA512: 8c483c83c00c73a55d8606052210bb41c99bd57e430ab6db3386c3dea66023524522dc4938ed7376c5030ecfbf601d8f569b28bc13cb082dc84013d511a65fc4
+Homepage:
+Description: Filermod-P Mod Menu by Filerm!
+Name: Filermod-P Mod Menu
+Author: Filerm
+
 Package: filermod-t
 Architecture: iphoneos-arm
 Version: 1.118.0.0
