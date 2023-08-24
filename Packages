@@ -1,72 +1,72 @@
-Package: filermod
-Architecture: iphoneos-arm
-Version: 1.120.0.0
-Section: Tweaks
-Maintainer: Filerm
-Installed-Size: 392
-Depends: mobilesubstrate
-Filename: ./debs/filermod_1.120.0.0_rootfull.deb
-Size: 151314
-MD5sum: 04141881d0aec3d9c4852d3fcf408535
-SHA1: d85d416923bbb70ac8858751fd0ed8015204e376
-SHA256: 928dfa3ca7ef66e01cd6d7cbec29f0cee6afd413a1d8694fac3cf89a5da7973f
-SHA512: ae107aa3a7b146254312d6a62c3b535ecb72a2e1652f57297429eaade9e41a1c3110b90d47a067cb0d1b7b4603c4a2518360061c1cfefb3640984895a2a0ce75
-Homepage:
-Description: Filermod-T Mod Menu by Filerm!
-Name: Filermod-T Mod Menu
-Author: Filerm
-
-Package: filermod
-Architecture: iphoneos-arm64
-Version: 1.120.0.0
-Section: Tweaks
-Maintainer: Filerm
-Installed-Size: 392
-Depends: mobilesubstrate
-Filename: ./debs/filermod_1.120.0.0_rootless.deb
-Size: 151346
-MD5sum: 7a41bae5dc9f08437e42b8abe72bc313
-SHA1: 0b7ea8ae1c94a842cf42cf833e30980fd9466e2f
-SHA256: e60f94d7832a19aefb072426a5afee10584bb67859e5f1bc42beaf53a6842e60
-SHA512: 942664e23d8ad60c077c1671fb1b75dec9f472f67dad020015168fe4f8512cb92b0e4c2d4d7bda6f9ec1aecbb7eb2ad12738ad4275ff9c27e8f6e03e1b4679b9
-Homepage:
-Description: Filermod-T Mod Menu by Filerm!
-Name: Filermod-T Mod Menu
-Author: Filerm
-
-Package: filermod
+Package: filermod-p
 Architecture: iphoneos-arm
 Version: 20.8.3.0
 Section: Tweaks
 Maintainer: Filerm
 Installed-Size: 296
 Depends: mobilesubstrate
-Filename: ./debs/filermod_20.8.3.0_rootfull.deb
-Size: 77798
-MD5sum: 9a5963d5dd632f4089c1a689d53e7986
-SHA1: 44248e9ef02ca12434e46d6dd9677d36629fa01c
-SHA256: 22706a25c472aa9763eb29da2df5bf3dcdb4b1c2fb3a86384fe5300440f3cbef
-SHA512: 0cf8e4b6a5d956254826b1c812e95c935122904454867abd7c35c16639a225ff860774bcd94cc0e0138816637f3b4a02d90d7e01cbf00c98cfa6ab209f08c94d
+Filename: ./debs/filermod-p_20.8.3.0_rootfull.deb
+Size: 77780
+MD5sum: 3f09b20a30b2ee1b2ae4c90db907ce13
+SHA1: 9e3740b6483dd9a6f7997fe5f7ad77d795bd1bb7
+SHA256: 111ae4b0b46e7d76145c779b87367202b2a5ecb9139032efcf3497a60a46c96d
+SHA512: 582ada13449e083db49809ad975804719085881ccebd25be83f1bd6b9884d4f70d19c3d667c29c3f52479fd3575598486851437e559e79a11e7b2e93135043e9
 Homepage:
 Description: Filermod-P Mod Menu by Filerm!
 Name: Filermod-P Mod Menu
 Author: Filerm
 
-Package: filermod
+Package: filermod-p
 Architecture: iphoneos-arm64
 Version: 20.8.3.0
 Section: Tweaks
 Maintainer: Filerm
 Installed-Size: 296
 Depends: mobilesubstrate
-Filename: ./debs/filermod_20.8.3.0_rootless.deb
-Size: 77906
-MD5sum: 64f8ccd2adaf14f90d7b1dd14cd5f457
-SHA1: d5bb6db5e9cc780ab4bfd4e1e390ed42a1a158e4
-SHA256: e58fb52fb7ba0997d0fa9783ea9147ac2634353bd718eaf69ad99e25a60794ea
-SHA512: 09a474c8c8b66691ad3834e0fb279063272221d14d76a8bf332d69c5d87ca4c903d470d029b50930751b78919f32b5a2069eb2a6444b460f172d00b70296ef55
+Filename: ./debs/filermod-p_20.8.3.0_rootless.deb
+Size: 77820
+MD5sum: 6a4f0a200154707e6c07b4a3aed6e968
+SHA1: 7dc0664964df50e7509df6311f620ff2a4ff6d9e
+SHA256: dc4d49c605e74151a0ffaddaa0bdf0c8063309d4b88ccb982064932ba4ee5945
+SHA512: 87df8c0c5ee57d7c44b219bb719262031480fe810deef6c1061ffb3284204622ef445033de9dbceab97d8fb3daa13404099081fe7e3a3809bdf35c0424799dfe
 Homepage:
 Description: Filermod-P Mod Menu by Filerm!
 Name: Filermod-P Mod Menu
+Author: Filerm
+
+Package: filermod-t
+Architecture: iphoneos-arm
+Version: 1.120.0.0
+Section: Tweaks
+Maintainer: Filerm
+Installed-Size: 392
+Depends: mobilesubstrate
+Filename: ./debs/filermod-t_1.120.0.0_rootfull.deb
+Size: 151250
+MD5sum: 747a76f328e580cb754b744f6944f79e
+SHA1: df5812250464228d9e5db8727465b8ec04064c74
+SHA256: 3dded9f548eb5365effb6f9c9ecfce5ca10f7d8f7417eed88a14e60645a7f50d
+SHA512: 3b5998219dd1b7ceb0f8e498c7dd2c13f01d1ae24b25c207c37d1cc69cf94f6877f7b24a5eb5e75334f7b7579336d11e370e6a78fc541150e7c019eef3bbfca7
+Homepage:
+Description: Filermod-T Mod Menu by Filerm!
+Name: Filermod-T Mod Menu
+Author: Filerm
+
+Package: filermod-t
+Architecture: iphoneos-arm64
+Version: 1.120.0.0
+Section: Tweaks
+Maintainer: Filerm
+Installed-Size: 392
+Depends: mobilesubstrate
+Filename: ./debs/filermod-t_1.120.0.0_rootless.deb
+Size: 151300
+MD5sum: 70665553a8225f4c214cbb86c2792739
+SHA1: 5e49dde4640f242ae0afea68aae1a0889590bccc
+SHA256: 5777bd0ee27e5c7345d3856c0a2a3258d42bd43f85a9108674bb649bd1e6b3c9
+SHA512: 4d9ce983326c21840294daf5ba4bfe8ea1e4316b344afb5b64ea709ddd8d8d996de4a9fe32e59464af1c166d7ff302a5841eb9ea01b8c278227da8b1255e2a43
+Homepage:
+Description: Filermod-T Mod Menu by Filerm!
+Name: Filermod-T Mod Menu
 Author: Filerm
 
