@@ -110,45 +110,35 @@ Package: filermod-td
 Architecture: iphoneos-arm
 Version: 1.121.0.1
 Section: Tweaks
+Maintainer: Filerm
 Installed-Size: 376
 Depends: mobilesubstrate
 Filename: ./debs/filermod-td_1.121.0.1_rootfull.deb
-Size: 148748
-MD5sum: 137236bd2381db3c0a422f741d3243d0
-SHA1: 0362d9fc9a9eab3b2f2cc2f54ba7fc96cedbec07
-SHA256: dc2b853477107d372e9180bc638fdc04ce252915afbd0c754588ad8379aeafbb
-SHA512: 694f310c91710a5435ec9517ac4a2ad5b16afa8a68082a77f82b159afa763b3fc00afc0b1ca19183dfc07d305a7d3e97c4ea3f4fe9fe4e0ad9044459a2ff846b
+Size: 148596
+MD5sum: cbe0393080564df14c372bccf395a269
+SHA1: 5e017f005aab5449c38058752b8092aaff5946bc
+SHA256: 575b66f964fc0f6c686e28699d7868b3fedb5dfcbc3e39f87a5e7c6b3bf58efb
+SHA512: 7d80e5f0642e87720f9da43fadec9519eaba5b0417722c2be40766f53299f8ee2be7c48af3df6709bac6a44cdff47d4a2c0d95d9215ad0102221d3038c38c861
 Homepage:
-Description: [ver1.121.0.1]アップデート内容
+Description: [ver1.121.0.1]Update
 Name: Filermod-TD Mod Menu
-Filerm: Filermodをご利用頂きありがとうございます。
-今回のアップデート内容は以下のとおりです。
-･メニューの修正
-･マイツムの追加
-これからもみなさまに質の良いModMenuを提供できるよう、努めてまいりますので今後ともよろしくお願いいたします！
-Maintainer: Filerm
 Author: Filerm
 
 Package: filermod-td
 Architecture: iphoneos-arm64
 Version: 1.121.0.1
 Section: Tweaks
+Maintainer: Filerm
 Installed-Size: 376
 Depends: mobilesubstrate
 Filename: ./debs/filermod-td_1.121.0.1_rootless.deb
-Size: 148864
-MD5sum: 23fe4b2c4ff960fc368389edc95da043
-SHA1: bbb2e70e890893ff7de450c134359c229e20f63d
-SHA256: ce883745decda25d65e45122ea8c966b01aaa5b39cf33e8af28f96bf174e9940
-SHA512: baad6999174eacf4191765deee5c36897d9dcd452db7c2f68a5ab0ba7ae6fd43fd12a867a14f013827c995f299f0dca43ea299eac6edd49904f32ded8b31ee8e
+Size: 148600
+MD5sum: 3c8c62f686481e30bd2e67e2a00a5f74
+SHA1: cdd8919d6485126581bc7d9f51f6cd794c903333
+SHA256: 49fb074565fcf6f85816b09d48b9571c2484f3695f776ec84f0b8b2520bd5cee
+SHA512: ca2967f0695e385e50cbf417bfb40faf63061e5fddb2b129b7c20fc53fc97a0495be8a3abed27880a37bf9af88e6fd0040227b666a83ddd21648e4ea30eb199a
 Homepage:
-Description: [ver1.121.0.1]アップデート内容
+Description: [ver1.121.0.1]Update
 Name: Filermod-TD Mod Menu
-Filerm: Filermodをご利用頂きありがとうございます。
-今回のアップデート内容は以下のとおりです。
-･メニューの修正
-･マイツムの追加
-これからもみなさまに質の良いModMenuを提供できるよう、努めてまいりますので今後ともよろしくお願いいたします！
-Maintainer: Filerm
 Author: Filerm
 
