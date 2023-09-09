@@ -214,3 +214,39 @@ Description: [ver1.121.0.2]Update
 Name: Filermod-TD Mod Menu
 Author: Filerm
 
+Package: filermod-td
+Architecture: iphoneos-arm
+Version: 1.121.0.3
+Section: Tweaks
+Maintainer: Filerm
+Installed-Size: 376
+Depends: mobilesubstrate
+Filename: ./debs/filermod-td_1.121.0.3_rootfull.deb
+Size: 148032
+MD5sum: f3fce676995f2914f43cb94d138cabfb
+SHA1: 1fbde6b7f24825c70f99e1229038931f310dddc8
+SHA256: 4e94d3563958c3df9648b25fa71c413f4d3f3fdc1e6221bfe6f11bb94892983d
+SHA512: 5bf2c80793436113e420b08ca1cda8cd36e0f913bc18f27109c45617c7de46af3ead3afc892f4f03c5462e0f2686ac6794ef9e6688f813feff4cf05c33ec143f
+Homepage:
+Description: [ver1.121.0.3]Update
+Name: Filermod-TD Mod Menu
+Author: Filerm
+
+Package: filermod-td
+Architecture: iphoneos-arm64
+Version: 1.121.0.3
+Section: Tweaks
+Maintainer: Filerm
+Installed-Size: 376
+Depends: mobilesubstrate
+Filename: ./debs/filermod-td_1.121.0.3_rootless.deb
+Size: 148028
+MD5sum: 4136ca0971cc2c0d1c9719d713e4e9bf
+SHA1: 064be1ec2069f7eac332a6f53f558039c1532ea1
+SHA256: 73750060fb37984217abd3baef2dcf4f06b2e759b6f3875a760debac54011977
+SHA512: ba09dfe2af9a740c309978340819dbce758b1b214612cb5b11ced5715d325fca13ca30fc451362390b0d173ba6c9407a1c1075e28abebf21e3aef00272d7b0a8
+Homepage:
+Description: [ver1.121.0.3]Update
+Name: Filermod-TD Mod Menu
+Author: Filerm
+
