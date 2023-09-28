@@ -34,6 +34,42 @@ Description: Filermod-P Mod Menu by Filerm!
 Name: Filermod-P Mod Menu
 Author: Filerm
 
+Package: filermod-p
+Architecture: iphoneos-arm
+Version: 20.9.2.0
+Section: Tweaks
+Maintainer: Filerm
+Installed-Size: 296
+Depends: mobilesubstrate
+Filename: ./debs/filermod-p_20.9.2.0_rootfull.deb
+Size: 77466
+MD5sum: ef864e16169ca15113e0d564a9497fa0
+SHA1: 7252ec941befe0ecb7cbe09366b7420654f9f5df
+SHA256: 1374b3fe2977002dd6c22d83228f80a88c0480d83b351b01dd7d67e4b4bdb7ab
+SHA512: 19275f9c0c5e0ec810ac9725ef848db79cc6fc30f43969df5e5be8ac7b9e89127d5ad5652454ffbc11bbd696ef3890eeeb647f6c01a419eefad95e07dbbc66f7
+Homepage:
+Description: パズドラのModMenuです。
+Name: Filermod-P Mod Menu
+Author: Filerm
+
+Package: filermod-p
+Architecture: iphoneos-arm64
+Version: 20.9.2.0
+Section: Tweaks
+Maintainer: Filerm
+Installed-Size: 296
+Depends: mobilesubstrate
+Filename: ./debs/filermod-p_20.9.2.0_rootless.deb
+Size: 77582
+MD5sum: 9436495376591ab7d433aed56868ea01
+SHA1: a78cf2b58bbea11438d86a9ecd115d59fb9617dc
+SHA256: 78b48720aa12292d0ee45417f8af0ef8a707845a8b80e6ef50e4ab556d192714
+SHA512: 4fad2c4bb127ca5428adcc93942a6488029925ecfdd76ffbb71a9db6758a2230fd1d6be7fed159d73536ae3573e5d9543e69356925300626cddf955086dc9d3c
+Homepage:
+Description: パズドラのModMenuです。
+Name: Filermod-P Mod Menu
+Author: Filerm
+
 Package: filermod-t
 Architecture: iphoneos-arm
 Version: 1.120.0.0
